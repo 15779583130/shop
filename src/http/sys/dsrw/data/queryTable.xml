@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<envelope>
+<header>
+<authen name="default">
+<data success="true" />
+<data message="" />
+<data transid="68d5bfdc5d324e46b953be0e9161ac46" />
+<data parentid="79EAD9C03B3D538209DFB91D7EE7DA93" />
+</authen>
+</header>
+<body>
+<logic name="default">
+<dataset name="list">
+<row job_class_name="com.syncsoft.service.job.SyncFileSjjhJob" trigger_name="附件交换" job_name="附件交换" job_group="filegroup" cron_expression="0/30 * * * * ?" description="附件交换" prev_fire_time="2019-12-30 10:43:00" trigger_state="PAUSED" next_fire_time="2019-12-30 10:43:30" time_zone_id="Asia/Shanghai" class="class com.syncsoft.service.center.domain.JobAndTrigger" trigger_group="filegroup" />
+<row job_class_name="com.syncsoft.service.job.FtpPdhcCcJob" trigger_name="派单回传仓储" job_name="派单回传仓储" job_group="ftp" cron_expression="0/30 * * * * ?" description="派单回传仓储" prev_fire_time="2019-12-17 17:49:00" trigger_state="PAUSED" next_fire_time="2019-12-17 17:49:30" time_zone_id="Asia/Shanghai" class="class com.syncsoft.service.center.domain.JobAndTrigger" trigger_group="ftp" />
+<row job_class_name="com.syncsoft.service.job.WlssdwJob" trigger_name="物流实时定位上传接口" job_name="物流实时定位上传接口" job_group="ftp" cron_expression="0/30 * * * * ?" description="物流实时定位上传接口" prev_fire_time="2019-12-17 17:49:00" trigger_state="PAUSED" next_fire_time="2019-12-17 17:49:30" time_zone_id="Asia/Shanghai" class="class com.syncsoft.service.center.domain.JobAndTrigger" trigger_group="ftp" />
+<row job_class_name="com.syncsoft.service.job.CommonWlpdJob" trigger_name="派单任务" job_name="派单任务" job_group="wlpd" cron_expression="0/30 * * * * ?" description="派单任务" prev_fire_time="2019-12-30 16:32:00" trigger_state="PAUSED" next_fire_time="2019-12-30 16:32:30" time_zone_id="Asia/Shanghai" class="class com.syncsoft.service.center.domain.JobAndTrigger" trigger_group="wlpd" />
+<row job_class_name="com.syncsoft.service.job.FtpRequestXmlDownJob" trigger_name="ftp第三方请求报文下载" job_name="ftp第三方请求报文下载" job_group="ftp" cron_expression="0/30 * * * * ?" description="ftp第三方请求报文下载" prev_fire_time="2019-12-18 11:00:00" trigger_state="PAUSED" next_fire_time="2019-12-18 11:00:30" time_zone_id="Asia/Shanghai" class="class com.syncsoft.service.center.domain.JobAndTrigger" trigger_group="ftp" />
+</dataset>
+<data listcount="13" />
+</logic>
+</body>
+</envelope>

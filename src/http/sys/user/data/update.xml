@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<envelope>
+  <header>
+    <authen name="default">
+      <data success="true" />
+      <data message="用户保存成功！" />
+      <data transid="084991ad06ae4d8aa89711474da2b5f2" />
+      <data parentid="692D1F58C0A8011101F537DBC549E5C9" />
+    </authen>
+  </header>
+  <body>
+    <logic name="default">
+      <data last_modified_dept_id="46AA4889A9FECF517FDDB304859F6630" />
+      <data tx="" />
+      <data user_name="33" />
+      <data create_dept_id="46AA4889A9FECF517FDDB304859F6630" />
+      <data last_modified_dept_name="中心机构" />
+      <data remark="111" />
+      <data valid_flag="1" />
+      <data last_modifier_id="" />
+      <data last_modifier_name="管理员" />
+      <data password="3FED12ABD3DDA437EEF4BC652AF3BCFCE135A4E86FE99B43CF33F84CFBDB4EE947DF2B194413AD44433B36D62150744771279146E7A3BC193CB2874B017DDED593827882E1DF261EA5BF1351D631EDB7A1F03C48671F4B782AF30B4AE58649DA087A21FB15098910BF4F0504F71BCA745608F10D5CCDE4DCD3E4D602B2ACE715" />
+      <data tel="" />
+      <data id="67B76BF3C0A812D94962D130118DFB85" />
+      <data addr="厦门" />
+      <data fax="" />
+      <data class="class com.syncsoft.service.center.domain.TbXtUser" />
+      <data email="" />
+      <data created_time="20190925171857057" />
+      <data last_modified_time="20191114170955301" />
+      <data create_dept_name="中心机构" />
+      <data mobile="112" />
+      <data dept_name="研发" />
+      <data by05="" />
+      <data by06="" />
+      <data login_name="33" />
+      <data by03="" />
+      <data by04="" />
+      <data by01="" />
+      <data by02="" />
+      <data creator_id="D3ECDF78C0A8906F5A7FC423EFBF871H" />
+      <data creator_name="管理员" />
+      <data dept_id="46AAA7F8A9FECF51711A38C0A382E5BA" />
+      <data oldpwd="3FED12ABD3DDA437EEF4BC652AF3BCFCE135A4E86FE99B43CF33F84CFBDB4EE947DF2B194413AD44433B36D62150744771279146E7A3BC193CB2874B017DDED593827882E1DF261EA5BF1351D631EDB7A1F03C48671F4B782AF30B4AE58649DA087A21FB15098910BF4F0504F71BCA745608F10D5CCDE4DCD3E4D602B2ACE715" />
+      <data status="1" />
+    </logic>
+  </body>
+</envelope>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<envelope>
+  <header>
+    <authen name="default">
+      <data success="true" />
+      <data message="用户保存成功！" />
+      <data transid="d60b9f3d115148dd940083a9c0255feb" />
+      <data parentid="68AF2202C0A8011101E93978008E9DDA" />
+    </authen>
+  </header>
+  <body>
+    <logic name="default">
+      <data last_modified_dept_id="46AA4889A9FECF517FDDB304859F6630" />
+      <data tx="116" />
+      <data user_name="lyaccc" />
+      <data create_dept_id="46AA4889A9FECF517FDDB304859F6630" />
+      <data last_modified_dept_name="中心机构" />
+      <data remark="" />
+      <data valid_flag="1" />
+      <data last_modifier_id="" />
+      <data last_modifier_name="管理员" />
+      <data password="" />
+      <data tel="" />
+      <data id="68AF2212C0A8011101FC6FB20D345AB0" />
+      <data addr="" />
+      <data fax="" />
+      <data class="class com.syncsoft.service.center.domain.TbXtUser" />
+      <data email="" />
+      <data created_time="20191114145218384" />
+      <data last_modified_time="20191114145218384" />
+      <data create_dept_name="中心机构" />
+      <data mobile="" />
+      <data dept_name="研发小组二" />
+      <data by05="" />
+      <data by06="" />
+      <data login_name="lyaccc" />
+      <data by03="" />
+      <data by04="" />
+      <data by01="" />
+      <data by02="" />
+      <data creator_id="" />
+      <data creator_name="管理员" />
+      <data dept_id="63EB0FA7C0A81F8B43099445DE5674A1" />
+      <data oldpwd="" />
+      <data status="1" />
+    </logic>
+  </body>
+</envelope>

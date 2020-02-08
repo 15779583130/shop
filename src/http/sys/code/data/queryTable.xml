@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<envelope>
+<header>
+<authen name="default">
+<data success="true" />
+<data message="表码类型查询成功！" />
+<data transid="b2114e71c37f4a74b7631e9ae2c6bab6" />
+<data parentid="55A2C1C33B3D538218117915BF2D265F" />
+</authen>
+</header>
+<body>
+<logic name="default">
+<data type_name2="业务信息管理" />
+<data created_time="20190821172928061" />
+<data last_modified_dept_id="46AA4889A9FECF517FDDB304859F6630" />
+<data type_name="保管中心" />
+<data last_modified_time="20190821172928061" />
+<data create_dept_name="软件研发中心" />
+<data create_dept_id="46AA4889A9FECF517FDDB304859F6630" />
+<data last_modified_dept_name="软件研发中心" />
+<data remark="" />
+<data valid_flag="1" />
+<data last_modifier_id="D3ECDF78C0A8906F5A7FC423EFBF871H" />
+<data last_modifier_name="管理员" />
+<data parent_id="ACF04B13C0A812650DA13CD87810362E" />
+<data creator_id="D3ECDF78C0A8906F5A7FC423EFBF871H" />
+<data creator_name="管理员" />
+<data id="B38278FCC0A8129B2E6DE4C8F5195C06" />
+<data class="class com.syncsoft.service.center.domain.TbXtCodetype" />
+<data type_code="BGZX" />
+</logic>
+</body>
+</envelope>

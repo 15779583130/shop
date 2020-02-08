@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<envelope>
+  <header>
+    <authen name="default">
+      <data success="true" />
+      <data message="" />
+      <data transid="c68a2a0b7d2a4f98ba1440a5331fc1e2" />
+      <data parentid="593F1D44C0A8011100E252629E28DDEF" />
+    </authen>
+  </header>
+  <body>
+    <logic name="default">
+      <dataset name="dataset">
+        <row id="2222222222222222222" ajxx_id="323131321" ajbh="AJ323213" ajmc="测试案件" lsh="LSh434324" jssj="20191127111711000" bdwah="3213213" cbrxm="王五" remark="111" />
+      </dataset>
+      <data count="68" />
+    </logic>
+  </body>
+</envelope>

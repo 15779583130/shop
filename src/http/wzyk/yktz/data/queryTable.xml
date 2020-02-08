@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<envelope>
+<header>
+<authen name="default">
+<data success="true" />
+<data message="" />
+<data transid="2bedd6f8da5842209d7d330e9d1ff27d" />
+<data parentid="C00803053B3D53821305183F5436042B" />
+</authen>
+</header>
+<body>
+<logic name="default">
+<dataset name="dataset">
+<row ajxx_id="87D0C3743B3D53821B6B0A786AE02506" sqsj="20191128201708018" sqrxm="韩警官" ajbh="AJ3502112600002019110005" jsqrsj="20191128201727563" zrwdh="GRW19112811260000026" xyr="" ajmc="郑某持枪抢劫" ywzb_id="B1F126AD3B3D538216FB91384C632395" ykzt="2" sqbmmc="厦门市公安局集美分局缉毒大队" row_id="1" ywcb_id="B1F1808D3B3D53826B3A078D653771EC" />
+<row ajxx_id="87D0C3743B3D53821B6B0A786AE02506" sqsj="20191128201708018" sqrxm="韩警官" ajbh="AJ3502112600002019110005" jsqrsj="20191128201718629" zrwdh="GRW19112811260000027" xyr="" ajmc="郑某持枪抢劫" ywzb_id="B1F126AD3B3D538216FB91384C632395" ykzt="3" sqbmmc="厦门市公安局集美分局缉毒大队" row_id="2" ywcb_id="B1F188353B3D53824F6183C926EB0CAF" />
+<row ajxx_id="87D0C3743B3D53821B6B0A786AE02506" sqsj="20191128201608845" sqrxm="韩警官" ajbh="AJ3502112600002019110005" jsqrsj="20191128201634897" zrwdh="GRW19112811260000025" xyr="" ajmc="郑某持枪抢劫" ywzb_id="B1F04C613B3D53827B0D034B5B77F10C" ykzt="3" sqbmmc="厦门市公安局集美分局缉毒大队" row_id="3" ywcb_id="B1F0A38B3B3D538240A1E8FF56B5D910" />
+<row ajxx_id="87D0C3743B3D53821B6B0A786AE02506" sqsj="20191128201343227" sqrxm="韩警官" ajbh="AJ3502112600002019110005" jsqrsj="20191128201538305" zrwdh="GRW19112811260000024" xyr="" ajmc="郑某持枪抢劫" ywzb_id="B1EDDA3F3B3D538222B3B027460F3C77" ykzt="3" sqbmmc="厦门市公安局集美分局缉毒大队" row_id="4" ywcb_id="B1EE66283B3D5382478B8D2DA4BF8D92" />
+<row ajxx_id="87D0C3743B3D53821B6B0A786AE02506" sqsj="20191128201343227" sqrxm="韩警官" ajbh="AJ3502112600002019110005" jsqrsj="20191128201533220" zrwdh="GRW19112811260000023" xyr="" ajmc="郑某持枪抢劫" ywzb_id="B1EDDA3F3B3D538222B3B027460F3C77" ykzt="3" sqbmmc="厦门市公安局集美分局缉毒大队" row_id="5" ywcb_id="B1EE394D3B3D538252C01D1671BB2164" />
+</dataset>
+<data count="6" />
+</logic>
+</body>
+</envelope>
